@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ff5e1ff-9036-4465-bf56-21d320919704" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YvUWAl9YJJ7wKVyMaetGwkQqq0" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/结构型/桥接模式" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.命令模式.第二个版本" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\repetory\设计模式\src\com\company\结构型\桥接模式" />
+      <recent name="E:\repetory\设计模式\src\com\company\创建型\原型模式" />
+      <recent name="E:\repetory\设计模式\src\com\company\创建型\抽象工厂模式" />
+      <recent name="E:\repetory\设计模式\src\com\company\创建型\建造者模式_生成器模式" />
+      <recent name="E:\repetory\设计模式\src\com\company" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.行为型.状态模式.Main" />
+      <module name="设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.行为型.状态模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.行为型.命令模式.第一个版本.Main" />
+      <module name="设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.行为型.命令模式.第一个版本.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.行为型.职责链模式.原始.Main" />
+      <module name="设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.行为型.职责链模式.原始.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.行为型.迭代器模式.Main" />
+      <module name="设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.行为型.迭代器模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.结构型.桥接模式.Main" />
+      <module name="设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.结构型.桥接模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ff5e1ff-9036-4465-bf56-21d320919704" name="Default Changelist" comment="" />
+      <created>1583822590619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583822590619</updated>
+      <workItem from="1583822592715" duration="4265000" />
+      <workItem from="1583895700854" duration="6492000" />
+      <workItem from="1583979224298" duration="10010000" />
+      <workItem from="1584064319619" duration="3127000" />
+      <workItem from="1584149983459" duration="4361000" />
+      <workItem from="1584272708523" duration="845000" />
+      <workItem from="1584324489417" duration="5307000" />
+      <workItem from="1584410411519" duration="1353000" />
+      <workItem from="1584580984820" duration="4137000" />
+      <workItem from="1584669342610" duration="2031000" />
+      <workItem from="1584794071090" duration="1572000" />
+      <workItem from="1584927243924" duration="10582000" />
+      <workItem from="1585013801372" duration="6307000" />
+      <workItem from="1585022243012" duration="2389000" />
+      <workItem from="1585049709660" duration="52000" />
+      <workItem from="1585100190598" duration="4767000" />
+      <workItem from="1585186089362" duration="6446000" />
+      <workItem from="1585219336638" duration="40000" />
+      <workItem from="1585271469738" duration="3955000" />
+      <workItem from="1585357382086" duration="1204000" />
+      <workItem from="1585376458698" duration="52000" />
+      <workItem from="1585394015898" duration="2590000" />
+      <workItem from="1585447005638" duration="5782000" />
+      <workItem from="1585479411594" duration="891000" />
+      <workItem from="1585557504804" duration="2096000" />
+      <workItem from="1585622682635" duration="4039000" />
+      <workItem from="1585644695503" duration="9000" />
+      <workItem from="1585708968226" duration="4801000" />
+      <workItem from="1585725811285" duration="7000" />
+      <workItem from="1585789248114" duration="7568000" />
+      <workItem from="1585829757287" duration="593000" />
+      <workItem from="1585876015933" duration="8314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

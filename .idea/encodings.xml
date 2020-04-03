@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/company/创建型/单例模式/Singleton1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/创建型/单例模式/Singleton2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/行为型/中介者模式/Main.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
